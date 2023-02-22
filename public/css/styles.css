@@ -1,0 +1,108 @@
+
+
+@font-face {
+    font-family:'roboto-italic';
+    src: url(../Roboto-Italic.ttf);
+}
+
+.img{
+    width:100%;
+  
+}
+
+header>li>a{
+      color:black;
+    }
+
+
+header{
+    background-color:#EAC926;
+    font-family:'roboto-italic';  
+    color:black;
+    
+   
+}
+
+header li{
+    color:black;
+}
+
+.titulares{
+    font-size: 24px;
+
+}
+
+.precio{
+  font-size: 18px;  
+}
+
+.descuento{
+    font-size: 16px;  
+  }
+
+ .descripcion{
+   font-size:16px ; 
+ } 
+ 
+
+p{
+    font-size: 12px;
+}
+
+
+
+div1{
+
+position: relative;
+left: 50%;
+color: white;
+background-color:#1259c3;
+border:#1259c3 ;
+border-radius: 1.5px;
+border-width: 5px;
+padding: 10px;
+box-sizing: border-box;
+
+
+}
+
+
+.articulo{
+    border : solid 6px  #ebebeb;
+    padding:10% ;
+
+
+}
+
+
+
+
+.footer>div{
+    
+
+    text-align: center;
+    padding: 10%;
+
+}
+
+
+.footer>div>i{
+    
+    color:blue;
+
+    
+
+}
+
+.footer>div>p>span{
+    
+    font-weight:bold;
+    
+
+}
+
+
+/* hacer el sitio adaptativo  */
+@media(min-widht:500px){
+
+ }
